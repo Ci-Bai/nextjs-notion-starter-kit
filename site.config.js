@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '370b1a1349ca4e35a2073021149c2b63',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '辞白',
+  domain: 'https://sedate-heather-791.notion.site/370b1a1349ca4e35a2073021149c2b63',
+  author: '叶白杨',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'Ci-Bai',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
