@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '辞白',
-  domain: 'https://sedate-heather-791.notion.site/370b1a1349ca4e35a2073021149c2b63',
+  domain: 'https://www.notion.so/370b1a1349ca4e35a2073021149c2b63',
   author: '叶白杨',
 
   // open graph metadata (optional)
